@@ -1,5 +1,5 @@
 ---
-title: "Quartmic, PhD"
+title: "QuartPhD"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
 image: "files/images/placeholder4.jpeg"
 page-navigation: false
